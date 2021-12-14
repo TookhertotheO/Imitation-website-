@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link href='style.css' rel='stylesheet'>
+<meta charset='utf-8'>
+<title>Travelix</title>
+<meta name="viewport" content="width=device-width, intial-scale1.0">
+</head>
+<body>
+ <div>
+  <nav>
+    <label class="logo">TRAVELIX</label>
+    <ul>
+      <li><a href="https://www.travelix.in">HOME</a></li>
+        <li><a href="https://www.travelix.in/flights/">FLIGHTS</a></li>
+          <li><a href="https://www.travelix.in/hotels/">HOTELS</a></li>
+            <li><a href="shorturl.at/gtvwW">CAR RENTALS</a></li>
+              <li><a href="shorturl.at/uvxEY">TAXI</a></li>
+                <li><a href="shorturl.at/txMXZ">TOUR</a></li>
+                  <li><a href="shorturl.at/kpCDY">CRUISES</a></li>
+                    <li><a href="shorturl.at/cnCKQ">SHOP</a></li>
+                      <li><a href="shorturl.at/moDNW">BLOG</a></li>
+      </ul>
+    </nav>
+   </div>
+ <div class='mainbox'>   
+  <div class='box1'>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 class='header1'> DISCOVER THE WORLD FOR LESS</h2>
+    <h3 class='header2'>SAVE UP TO 60% PERCENT OF HOTELS AND FLIGHTS WORLDWIDE</h3>
+    <div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><script charset="utf-8" src="//www.travelpayouts.com/widgets/7da45151c7cc441fafef33ca8d604873.js?v=2192" async></script></p>
+
+		</div>
+	</div>
+    <br>
+    <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  </div>  
+  </div>
+  <container>
+    
+  <h4 class='scan'> FOR OFFLINE BEST AVAILABLE FARE</h4>
+  <h5 class='under1'> WHATS APP BELOW SCAN
+  </h5>
+ <div class='qrcode'>
+   <img src='https://www.travelix.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-11.04.12-PM-1.jpeg'>
+   
+<h6 class='clickhere'>CLICK HERE<a href="https://api.whatsapp.com/send/?phone=918144977442&text&app_absent=0"></a></h6>
+</div>
+</container>
+<h2>POPULAR DESTINATIONS</h2>
+<section>
+<p1>NEED TRAVEL INSPIRATION? CHECK OUT OUR MOST POPULAR DESTINATIONS.</p1>
+</section>
+  </body>
+  </html>
+  /*css*/
+  
